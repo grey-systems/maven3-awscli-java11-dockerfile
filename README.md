@@ -1,6 +1,9 @@
 ![Grey Systems](https://ci4.googleusercontent.com/proxy/QIT7f77BFdQFLagsiHBnvROm1h_A4-bd5sluu9zkpCTjMNV4yRCBIpxGuF2_l9lzrr98VBlgQQwYmV5fT6w4iy4nh3vou9y7thyMA8t0wcyj73DvdgAtZUOIFbZiwQ1LFBkpyVC1ludibIIhtA2inlKQ=s0-d-e1-ft#https://drive.google.com/a/reacciona.es/uc?id=1t_-o_GDpzyDhcJc4u8EJ8cslqZS_D_XM&export=download)
 
 # maven3-awscli-java11
+
+![Status](https://github.com/grey-systems/maven3-awscli-java11-dockerfile/actions/workflows/build-push-dockerfile.yml/badge.svg)
+
 ## Description
 This image was thinking to build and push our microservices based on java11 and maven to a private ECR repository.
 
